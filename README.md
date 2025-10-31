@@ -1,6 +1,14 @@
-Business plan starter files. Description  of project built around rollercoin and PI() mining with a bit of freebitco.in thrown in
+Total Control is a project built around rollercoin and PI() mining with a bit of freebitco.in thrown in. Its' aim is to offer
+a starting point for those who want to take control of their lives and finances by joining the crypto-currecy revolution that is happening in the World today.
 
-The front page hosts a membership login / registration scheme which keeps track of the users activity.
-The end result is a closed system that starts with  the user generatinbg money by reating and selling their own NFT's
-These funds are then added to the PI() generated fubds and the BTC from freebitco.ain and rollercoin. The running total
-is traded around the clock on Coinbvase Advanenced. wich w_ll hopefully giv us mon_h
+The front page hosts a 2FA membership login / registration scheme which keeps track of the users activity.
+The aim of the project is independency and de-centralization. The user having total control.
+It will give you a passive income that will grow without you touching it, or it will provide your main income if you put more effort in.
+The choice is yours. You can start with nothing and the growth will be slow. But with a little extra effotr in the early stages can be boosted.
+</br>
+We mine and create digital assetts for free where we can and magnify their value with our own internal systenms.
+Our workflow takes what we have collected for nothing and gives it real value by trading it within a virtual ecosystem that pays in real money.
+</br>
+The end result is a VISA card whhose balance is constantly being topped up by the user's acttions. 
+These are then added to the PI() generated funds and the BTC from freebitco.ain and rollercoin. The running total
+is traded around the clock on by the bot on Coinbase Advanenced. wich adds to our balance every day.
