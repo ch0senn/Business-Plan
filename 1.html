@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>front page</title>
+  <style>
+    .image-button-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 40px; /* 20px margin on each side of a button = 40px gap between buttons */
+      padding: 20px;
+      background: #f7f7f7;
+    }
+    .image-button {
+      width: 100px;
+      height: 100px;
+      padding: 20px;
+      margin: 20px;
+      border: none;
+      background: #fff;
+      border-radius: 10px;
+      cursor: pointer;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: box-shadow 0.2s;
+    }
+    .image-button:hover {
+      box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    }
+    .image-button img {
+      width: 60px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="image-button-container">
+    <button class="image-button" onclick="window.location.href='1.html'">
+      <img src="freebtc.png" alt="Page 1">
+    </button>
+    <button class="image-button" onclick="window.location.href='2.html'">
+      <img src="pi.png" alt="Page 2">
+    </button>
+    <button class="image-button" onclick="window.location.href='3.html'">
+      <img src="rollercoin.png" alt="Page 3">
+    </button>
+    <button class="image-button" onclick="window.location.href='4.html'">
+      <img src="coinbase.png" alt="Page 4">
+    </button>
+  </div>
+  <div id="hero" style="width:100%;padding:20px;" ><img src="img/02.webp" style="width:80%" ></div>
+</body>
+</html>
