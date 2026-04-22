@@ -1,5 +1,5 @@
 Total Control is a project built around rollercoin and mining PI() Network. Its' aim is to offer
-a starting point for those who want to take control of their lives and finances by joining the crypto-currecy revolution that is happening in the World today.
+a starting point for those who want to take control of their lives and finances by joining the crypto-currency revolution that is happening in the World today.
 
 The front page hosts a 2FA membership login / registration scheme which keeps track of the users activity.
 The aim of the project is independency and de-centralization. The user having total control.
